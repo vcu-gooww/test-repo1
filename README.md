@@ -6,4 +6,4 @@
 
 ![Super-Linter](https://github.com/vcu-chfauerbach/test-repo1/workflows/Super-Linter/badge.svg)
 
-I like pylint tool.
+I like Pylint tool.
